@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   ["blackberry", "cranberry", "hawthorne", "juniper"]
-  ["blueberry"]add_element_to_end_of_array.push
+  add_element_to_end_of_array >>["blueberry"]
 end
 
 def add_element_to_start_of_array(array, element)
