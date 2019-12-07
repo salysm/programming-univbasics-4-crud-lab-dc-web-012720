@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
- berries = ["blackberry", "cranberry", "hawthorne", "juniper"]
-  berries.push("arrays!")
+ array = ["wow", "I", "am", "really", "learning"]
+    array.push("arrays!")
 end
 
 def add_element_to_start_of_array(array, element)
