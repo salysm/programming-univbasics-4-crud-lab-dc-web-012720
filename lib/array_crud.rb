@@ -20,7 +20,9 @@ end
 
 def remove_element_from_end_of_array(array)
   array = ["I", "am", "really", "learning", "arrays!"]
-  array.pop
+  hurray_array = array.pop
+  p array
+  p hurray_array
 end
 
 def remove_element_from_start_of_array(array)
