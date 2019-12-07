@@ -6,7 +6,7 @@ def create_an_array
   ["blackberry", "cranberry", "hawthorne", "juniper"]
 end
 
- def 
+ def add_element_to_end_of_array
  array = ["wow", "I", "am", "really", "learning"]
   array.push("arrays!")
   p array
